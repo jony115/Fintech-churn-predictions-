@@ -7,7 +7,7 @@ import pandas as pd
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv("F:/Msc BA/Dissertation/Fintech_user.csv/Fintech_user.csv")
+df = pd.read_csv("Fintech users data") #path: https://www.kaggle.com/datasets/niketdheeryan/fintech-users-data
 
 # View the headers
 print("Headers:")
