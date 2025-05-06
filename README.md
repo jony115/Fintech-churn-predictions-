@@ -1,3 +1,6 @@
+Predictive Insights: Enhancing Customer Retention in Fintech through Big Data Analytics 
+```
+
 The primary goal of this study is to explore the use of data analysis in improving customer retention and 
 enhancing the customer experience, in fintech firms through predictive modeling techniques. Among all the models analyzed, the best performance developed was by the Random Forest model, which gave an accuracy of 73.92%, a precision of 73, a recall of 74, and an F1 score of 73. 
 With the random forest, XGBoost came out as a very close second, having an accuracy of 72.19%, and a balanced precision, recall, and F1 scores of 72. 
